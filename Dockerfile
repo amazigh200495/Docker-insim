@@ -1,5 +1,5 @@
 FROM python:3.7
-MAINTANER insim 
+MAINTANER amazigh200495@gmail.com 
 RUN apt update && apt install -y python3-pip
 
 
