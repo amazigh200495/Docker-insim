@@ -11,4 +11,3 @@ RUN pwd && ls && pip3 install -r requirements.txt --no-cache-dir
 
 EXPOSE 8080
 
-ENTRYPOINT [ "python3.7", "./app.py" ]
